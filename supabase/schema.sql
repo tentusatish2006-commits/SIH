@@ -1,0 +1,1 @@
+-- See repo file supabase/schema.sql after push - placeholder short
